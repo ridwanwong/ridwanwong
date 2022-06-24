@@ -3,10 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm A Iwan Ridwanudin
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on PT Power Block Indonesia
-- 🌱 I’m currently learning Programming Languages
 - :computer: I love Programming</br>
 - :mailbox: How to reach me: <a href="mailto:a.ridwanudin@gmail.com">a.ridwanudin@gmail.com</a>
 
